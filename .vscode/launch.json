@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/guoguo/work/algo-exploration/leetcode/dp-algo/csrc",
+      "program": "/Users/guoguo/work/algo-exploration/leetcode/dp-algo/csrc/build/Debug/outDebug"
+    }
+  ]
+}
