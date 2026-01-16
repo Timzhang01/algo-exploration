@@ -364,3 +364,6 @@ $\pi_{SFT}$ 比原始预训练模型更接近期望的行为空间：
 
 
 
+
+
+https://www.bilibili.com/video/BV1dv8uzLEk2?spm_id_from=333.788.videopod.sections&vd_source=997b612028a4d9f90d4179eb93284d60
