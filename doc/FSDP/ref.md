@@ -15,6 +15,22 @@ all-gather
 
 DP
 
+https://www.bilibili.com/video/BV13cn4zFEQ1/?spm_id_from=333.337.search-card.all.click&vd_source=997b612028a4d9f90d4179eb93284d60
+
+https://www.bilibili.com/video/BV11x4y147bj/?spm_id_from=333.337.search-card.all.click&vd_source=997b612028a4d9f90d4179eb93284d60
+
+https://www.bilibili.com/video/BV1GE421P7XF/?spm_id_from=333.337.search-card.all.click&vd_source=997b612028a4d9f90d4179eb93284d60
+
+https://www.bilibili.com/video/BV1bZy7BkE7R/?spm_id_from=333.337.search-card.all.click&vd_source=997b612028a4d9f90d4179eb93284d60
+
+https://www.bilibili.com/video/BV1re41127xE/?spm_id_from=333.337.search-card.all.click&vd_source=997b612028a4d9f90d4179eb93284d60
+
+bilibili.com/video/BV1hRq6BtEt6/?spm_id_from=333.1387.homepage.video_card.click
+
+https://habr.com/ru/companies/yandex/articles/817509/
+
+https://habr.com/ru/articles/976576/
+
 显存都被什么占用了
 ![alt text](image.png)
 
@@ -26,20 +42,14 @@ DP
 
 ![alt text](image-4.png)
 
-
 https://www.llamafactory.cn/huggingface-docs/accelerate/concept_guides/fsdp_and_deepspeed.html
 
 https://zhuanlan.zhihu.com/p/8978862456
-
 
 https://zhuanlan.zhihu.com/p/649837295
 
 ![alt text](image-5.png)
 
-
 https://lywencoding.com/posts/48646366.html
 
 ![alt text](image-6.png)
-
-
-
